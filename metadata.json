@@ -1,0 +1,8 @@
+{
+  "name": "Saradar — Artisan Crochet Boutique",
+  "description": "Saradar: Discover handcrafted crochet flowers, bouquets, bags, toys, and custom gifts with live customization, seamless checkout, and artisan order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
